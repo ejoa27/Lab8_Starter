@@ -1,6 +1,3 @@
-/* eslint-disable no-undef */
-/* eslint-disable indent */
-/* eslint-disable quotes */
 describe('Basic user flow for Website', () => {
   // First, visit the lab 8 website
   beforeAll(async () => {
